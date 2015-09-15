@@ -1,3 +1,4 @@
 /.emacs.desktop
 /.lein-failures
 /target/
+/.emacs.desktop.lock
