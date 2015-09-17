@@ -2,3 +2,4 @@
 /.lein-failures
 /target/
 /.emacs.desktop.lock
+/.nrepl-port
